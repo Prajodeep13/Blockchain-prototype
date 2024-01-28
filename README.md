@@ -1,2 +1,4 @@
 # Blockchain-prototype
-It shows how the blockchain works , how mining works,etc
+It shows how the blockchain works 
+<br>
+ how mining works,etc
